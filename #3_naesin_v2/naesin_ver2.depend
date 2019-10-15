@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1568864106 source:c:\users\admin\desktop\naesin_ver2\main.c
+	<stdio.h>
+
+1569647662 source:c:\users\admin\desktop\p\naesin_ver2\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
